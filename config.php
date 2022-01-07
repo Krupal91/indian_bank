@@ -2,7 +2,7 @@
 
 	$servername = "localhost";
 	$username = "krupal";
-	$password = "Krupal_8735888868";
+	$password = "********";
 	$dbname = "indian_bank";
 
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
